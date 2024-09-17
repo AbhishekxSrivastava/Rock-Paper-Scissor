@@ -1,0 +1,62 @@
+body{
+    background-color:rgb(8, 8, 8)
+}
+
+h1{
+    color:#77f95e;
+    text-align:center;
+    font-size:50px;
+    margin-bottom: 50px;
+}
+
+.js-result{
+    color:rgb(232, 250, 34);
+    font-size:25px;
+}
+
+.js-moves{
+    color:rgb(247, 242, 242);
+    font-size: 25px;
+}
+
+.js-score{
+    color:rgb(254, 252, 252);
+    font-size: 25px;
+    margin-top:20px;
+}
+
+#reset{
+    padding: 10px 10px;
+    font-size: 20px;
+    background-color:rgb(152, 216, 216);
+    border:2px solid black;
+}
+
+.move-icon{
+    height: 50px;   
+     
+}
+
+.move-button {
+    background-color: transparent;
+    border: 3px solid rgb(164, 202, 138);
+    width:  120px;
+    height: 120px;
+    border-radius: 60px;
+    margin-right: 10px;
+    cursor:pointer;
+}
+
+.buton{
+    text-align:center
+}
+
+
+button:active{
+    background: grey;
+}
+
+
+#reset:active {
+    background-color : grey;
+}
